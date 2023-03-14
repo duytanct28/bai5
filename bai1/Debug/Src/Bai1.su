@@ -1,0 +1,7 @@
+../Src/Bai1.c:47:5:main	8	static
+../Src/Bai1.c:76:6:AppInitCommon	8	static
+../Src/Bai1.c:95:6:LedControl_SetStatus	16	static
+../Src/Bai1.c:117:9:ButtonRead_Status	24	static
+../Src/Bai1.c:135:6:Delay	24	static
+../Src/Bai1.c:151:6:Led_Init	16	static
+../Src/Bai1.c:185:6:Button_Init	16	static
